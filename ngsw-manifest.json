@@ -1,14 +1,14 @@
 {
   "static": {
     "urls": {
-      "/polyfills.563dbf3f5c790722ed8b.bundle.js": "1924fa3288ef360a0a52bffe500a12c994f9322b",
-      "/main.1cad10d0671352411f56.bundle.js": "693f75ae586adfdb3799e7b7fc12e5e47692a8a3",
-      "/sw-register.b73048fe3d9f8a1e7ae5.bundle.js": "a98270c864fc34e37b1d992bfe5994323558c2f8",
-      "/vendor.0afff12413b018da7c8b.bundle.js": "611e34771fa2182eb542c7c1a35fbfa7cecb5f9b",
-      "/inline.4763b2f42fb7a307de7b.bundle.js": "515d840854e0415bb9f0de8b59ba902f0de4df45",
-      "/styles.d41d8cd98f00b204e980.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-      "/index.html": "e250d8200ede87c3afd616ce5c232331f61f690f"
+      "/my-ng/polyfills.563dbf3f5c790722ed8b.bundle.js": "1924fa3288ef360a0a52bffe500a12c994f9322b",
+      "/my-ng/main.1cad10d0671352411f56.bundle.js": "693f75ae586adfdb3799e7b7fc12e5e47692a8a3",
+      "/my-ng/sw-register.b73048fe3d9f8a1e7ae5.bundle.js": "a98270c864fc34e37b1d992bfe5994323558c2f8",
+      "/my-ng/vendor.0afff12413b018da7c8b.bundle.js": "611e34771fa2182eb542c7c1a35fbfa7cecb5f9b",
+      "/my-ng/inline.4763b2f42fb7a307de7b.bundle.js": "515d840854e0415bb9f0de8b59ba902f0de4df45",
+      "/my-ng/styles.d41d8cd98f00b204e980.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "/my-ng/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+      "/my-ng/index.html": "97506aaa2fdc871dee88f2c23ebf98c6e9fc94b9"
     },
     "_generatedFromWebpack": true
   }
